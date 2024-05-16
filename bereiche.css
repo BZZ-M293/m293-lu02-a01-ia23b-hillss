@@ -22,12 +22,14 @@ article {
     background-color: brown;
     color: white;
     padding: 10px;
+    margin-bottom: 10px;  /* added margin to separate articles */
 }
 
 section {
     background-color: darkolivegreen;
     color: black;
     padding: 10px;
+    margin-bottom: 10px;  /* added margin to separate sections */
 }
 
 footer {
